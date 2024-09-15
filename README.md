@@ -9,7 +9,7 @@ Visit [this link](https://hoccupancy.streamlit.app) for the dashboard.
 <!-- #### -- Project Status: [Active, On-Hold, Completed] -->
 
 ## Project Intro/Objective
-The purpose of this project is to visualize and analyze demand and supply of general hospital care in Switzerland. The analysis is based on distance to nearest hospital by district. _Next stage for this project is to simulate optimize hospital service availability in Switzerland and account for the future increase in demand._
+The purpose of this project is to visualize and analyze demand and supply of general hospital care in Switzerland. The analysis is based on distance to nearest hospital by district. _Next stage for this project is to simulate optimize hospital service availability in Switzerland while accounting for the future increase in demand._
 
 <!-- ### Partner
 * [Name of Partner organization/Government department etc..]
